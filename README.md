@@ -1,6 +1,6 @@
 ## Exercícios de Pesquisa Operacional
 
-Exercícios criados projetados para revisar competências essenciais, tais como:
+Exercícios projetados para revisar competências essenciais, tais como:
 
 * Otimização linear;
 * Tomada de decisão em cenários reais; e
